@@ -68,26 +68,9 @@ A minimal ATM-like simulation focusing on depositing and withdrawing money.
 
 ---
 
-## 📂 Folder Structure
-mini_projects/
-├── calculator.py
-├── login_system.py
-├── mini_atm.py
-└── README.md
-
-
----
-
 ## 🚀 Getting Started
 
-Make sure Python is installed. Then run the files using:
-
-```bash
-python calculator.py
-python login_system.py
-python mini_atm.py
-```
----
+Make sure Python is installed. Then run the file.
 
 ## 👤 Author
 
