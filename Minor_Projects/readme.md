@@ -89,5 +89,7 @@ python mini_atm.py
 ```
 ---
 
-👤 Author
+## 👤 Author
+
 This project was created by **Sneha Rajbhar** as part of mini project development in Python programming.
+
